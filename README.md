@@ -1,7 +1,7 @@
 
 ## 📄 Project Structure
 ```
-EmploiPublic‑Solution/
+AzureSqlDatabase_migration/
 ├── app/
 │   ├── __init__.py
 │   ├── db.py
@@ -25,8 +25,8 @@ A data migration project using Python to transfer data from local files such as 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aymenBelkhair/EmploiPublic-Solution.git
-   cd EmploiPublic-Solution
+   git clone https://github.com/aymenBelkhair/AzureSqlDatabase_migration.git
+   cd AzureSqlDatabase_migration
    ```
 
 2. (Optional but recommended) Set up a virtual environment:
